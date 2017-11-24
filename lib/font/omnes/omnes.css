@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Omnes';
+    src: url('omnes-extralight-webfont.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Omnes';
+    src: url('omnes-light-webfont.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Omnes';
+    src: url('omnes-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Omnes';
+    src: url('omnes-medium-webfont.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Omnes';
+    src: url('omnes-semibold-webfont.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
